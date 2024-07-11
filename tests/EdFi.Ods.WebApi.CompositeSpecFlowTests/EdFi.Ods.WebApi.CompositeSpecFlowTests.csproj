@@ -27,9 +27,9 @@
   <ItemGroup>
     <PackageReference Include="EdFi.Suite3.Admin.DataAccess" Version="5.3.43" />
     <PackageReference Include="EdFi.Suite3.Security.DataAccess" Version="5.3.43" />
-    <PackageReference Include="NHibernate" Version="5.2.7" />
+    <PackageReference Include="NHibernate" Version="5.5.2" />
     <PackageReference Include="ApprovalTests" Version="5.4.4" />
-    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="9.0.0" />
     <PackageReference Include="Dapper" Version="2.0.35" />
     <PackageReference Include="EdFi.Suite3.Common" Version="5.3.3" />
     <PackageReference Include="EntityFramework" Version="6.4.4" />
@@ -39,7 +39,7 @@
     <PackageReference Include="Iesi.Collections" Version="4.0.4" />
     <PackageReference Include="log4net" Version="2.0.12" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.6.1" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="NUnit" Version="3.12.0" />
     <PackageReference Include="NUnit3TestAdapter" Version="3.17.0">
       <PrivateAssets>all</PrivateAssets>
